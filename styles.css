@@ -11,3 +11,18 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+
+.primary{
+    background-color: #222;
+}
+
+.secondary{
+    background-color: #eee;
+    color: #222;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#last{
+    margin-bottom: 300px;
+}
