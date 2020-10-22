@@ -11,3 +11,18 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+.primary-box {
+    background: #222;
+    color: #eee;
+    font-size: 16px;
+    margin: 0 0 10px;
+    padding: 10px;
+}
+
+.secondary-box {
+    background: #eee;
+    color: #222;
+    font-size: 16px;
+    margin: 0 0 10px;    
+    padding: 10px;
+}
