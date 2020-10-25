@@ -11,3 +11,21 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+.first{
+    background-color:  #24201f;
+}
+.second{
+    background-color: white;
+    color: black;
+}
+.third{
+    background-color:  #24201f;
+}
+.firth{
+    background-color: white;
+    color: black;
+}
+div{
+    margin: 30px 0;
+    
+}
