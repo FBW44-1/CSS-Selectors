@@ -11,3 +11,14 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+.primary{
+    background-color: rgb(68, 68, 68);
+}
+.secondary{
+    background-color: white;
+    color:  rgb(68, 68, 68);
+}
+.primary, .secondary {
+    margin: 20px 0px 20px 0px;
+    padding: 20px;
+}
